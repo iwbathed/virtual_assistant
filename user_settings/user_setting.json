@@ -1,0 +1,20 @@
+{
+    "input_device": "Microphone (Realtek(R) Audio); Channels 2",
+    "stt_model_settings": {
+        "language": "ua",
+        "model_name": "vosk-model-uk-v3-lgraph"
+    },
+    "stt_listening_time": 15,
+    "tts_model_settings": {
+        "language": "ua",
+        "model_id": "v4_ua",
+        "speaker": "mykyta"
+    },
+    "sample_rate": 48000,
+    "put_accent": true,
+    "put_yo": true,
+    "font_family": "Arial",
+    "font_size": 15,
+    "wwd_recognition_percentage": 91,
+    "stt_recognition_percentage": 94
+}

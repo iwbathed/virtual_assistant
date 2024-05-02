@@ -1,0 +1,27 @@
+[
+    {
+        "script_name": "script1.py",
+        "run_command": "python",
+        "key_phrase": "\u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0438 \u043d\u043e\u0442\u0430\u0442\u043a\u0438"
+    },
+    {
+        "script_name": "script2.py",
+        "run_command": "python",
+        "key_phrase": "\u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u0438 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440"
+    },
+    {
+        "script_name": "script3.py",
+        "run_command": "python",
+        "key_phrase": "\u0442\u0440\u0435\u0442\u0456\u0439 \u0441\u043a\u0440\u0438\u043f\u0442"
+    },
+    {
+        "script_name": "Google Chrome.lnk",
+        "run_command": "",
+        "key_phrase": "\u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0438 \u0431\u0440\u0430\u0443\u0437\u0435\u0440"
+    },
+    {
+        "script_name": "builded.json",
+        "run_command": "",
+        "key_phrase": ""
+    }
+]
